@@ -1,0 +1,16 @@
+x = int(input("Enter the value of x:"))
+y = int(input("Enter the value of y:"))
+output=x+y
+print('x+y =',x+y)
+output=x-y
+print('x-y =',x-y)
+output=x*y
+print('x*y =',x*y)
+output=x**y
+print('x**y =',x**y)
+output=x/y
+print('x/y =',x/y)
+output=x//y
+print('x//y =',x//y)
+output=x%y
+print('x%y =',x%y)
